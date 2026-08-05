@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Alex · Hola, soy Alex
-
 <img src="./assets/tech-cyber-vivid.gif" alt="Alex — Neon tech intro" width="840" />
 
 <br />
