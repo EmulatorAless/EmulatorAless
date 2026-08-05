@@ -133,22 +133,19 @@
 
 ---
 
-## 📊 GitHub stats · Estadísticas
+## 📈 Activity · Actividad
+
+🇬🇧 Live data from my GitHub contributions (updates automatically).  
+🇪🇸 Datos en vivo de mis contribuciones en GitHub (se actualizan solos).
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=EmulatorAless&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Alex GitHub stats" width="420" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmulatorAless&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" width="320" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=EmulatorAless&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" width="560" />
+  <img src="https://streak-stats.demolab.com/?user=EmulatorAless&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmulatorAless&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
+
+> 💡 🇬🇧 GitHub also shows the full contribution calendar on this profile (below).  
+> 🇪🇸 GitHub también muestra el calendario de contribuciones completo en este perfil (abajo).
 
 ---
 
