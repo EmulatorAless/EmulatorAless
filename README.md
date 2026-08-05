@@ -11,27 +11,36 @@
 🇬🇧 I build end-to-end products: web, mobile, APIs, and SaaS-style apps.  
 🇪🇸 Construyo productos de punta a punta: web, móvil, APIs y apps tipo SaaS.
 
-<br />
-
-![GitHub followers](https://img.shields.io/github/followers/EmulatorAless?style=for-the-badge&color=2f855a)
-![Profile views](https://komarev.com/ghpvc/?username=EmulatorAless&style=for-the-badge&color=2f855a)
-
 </div>
 
 ---
 
 ## 🧭 About me · Sobre mí
 
-🇬🇧 · Full stack developer building complete products.
-🇪🇸 · Desarrollador full stack que construye productos completos.
-🇬🇧 · I work across frontend, backend, mobile, and SaaS-style applications.  
-🇪🇸 · Trabajo en frontend, backend, móvil y aplicaciones tipo SaaS.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🇬🇧 · From idea to product: interfaces, APIs, auth, data, and real features users need.  
-🇪🇸 · De la idea al producto: interfaces, APIs, auth, datos y funciones reales para usuarios.
+#### 🇬🇧 English
 
-🇬🇧 · I care about clear code, solid architecture, and shipping useful software.  
-🇪🇸 · Me importa el código claro, la arquitectura sólida y entregar software útil.
+- Full stack developer building complete products.
+- I work across frontend, backend, mobile, and SaaS-style applications.
+- From idea to product: interfaces, APIs, auth, data, and real features users need.
+- I care about clear code, solid architecture, and shipping useful software.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🇪🇸 Español
+
+- Desarrollador full stack que construye productos completos.
+- Trabajo en frontend, backend, móvil y aplicaciones tipo SaaS.
+- De la idea al producto: interfaces, APIs, auth, datos y funciones reales para usuarios.
+- Me importa el código claro, la arquitectura sólida y entregar software útil.
+
+</td>
+</tr>
+</table>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -44,18 +53,9 @@
 
 ---
 
-## 💼 What I do · Qué hago
-
-| 🇬🇧 English                                 | 🇪🇸 Español                                      |
-| :----------------------------------------- | :---------------------------------------------- |
-| 🚀 Build SaaS-style products end to end    | 🚀 Crear productos tipo SaaS de punta a punta   |
-| 🖥️ Design web apps and user experiences    | 🖥️ Diseñar apps web y experiencias de usuario   |
-| 📱 Develop mobile apps with Expo           | 📱 Desarrollar apps móviles con Expo            |
-| ⚙️ Build backends, APIs, auth & data flows | ⚙️ Crear backends, APIs, auth y flujos de datos |
-
----
-
 ## 🛠️ Tech stack · Stack tecnológico
+
+<!-- Order for recruiters: Frontend → Backend → Data → Mobile → Tools -->
 
 ### 💻 Frontend
 
@@ -67,19 +67,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-### 📱 Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" />
-</p>
-
-### 🎨 Styling & Motion · Estilos y animación
-
-<p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Motion" />
@@ -101,6 +88,14 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
+### 📱 Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" />
+</p>
+
 ### 🔧 Tools · Herramientas
 
 <p>
@@ -110,27 +105,49 @@
 
 ---
 
+## 💼 What I do · Qué hago
+
+| 🇬🇧 English | 🇪🇸 Español |
+| :--- | :--- |
+| 🚀 Build SaaS-style products end to end | 🚀 Crear productos tipo SaaS de punta a punta |
+| 🖥️ Design web apps and user experiences | 🖥️ Diseñar apps web y experiencias de usuario |
+| 📱 Develop mobile apps with Expo | 📱 Desarrollar apps móviles con Expo |
+| ⚙️ Build backends, APIs, auth & data flows | ⚙️ Crear backends, APIs, auth y flujos de datos |
+
+---
+
 ## 💪 Soft skills · Habilidades blandas
 
-🇬🇧 · Communication · Problem solving · Curiosity · Consistency  
-🇪🇸 · Comunicación · Resolución de problemas · Curiosidad · Constancia
+| 🇬🇧 English | 🇪🇸 Español |
+| :--- | :--- |
+| Communication · Problem solving · Curiosity · Consistency | Comunicación · Resolución de problemas · Curiosidad · Constancia |
 
 ---
 
 ## 🌍 Languages · Idiomas
 
-| Language / Idioma | Level / Nivel             |
-| :---------------- | :------------------------ |
-| 🇪🇸 Español        | Native / Nativo           |
-| 🇬🇧 English        | Intermediate · Intermedio |
+| Language / Idioma | Level / Nivel |
+| :--- | :--- |
+| 🇪🇸 Español | Native / Nativo |
+| 🇬🇧 English | Intermediate · Intermedio |
 
 ---
 
 ## 📊 GitHub stats · Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmulatorAless&show_icons=true&theme=transparent&hide_border=true&title_color=2f855a&icon_color=2f855a&text_color=8b949e" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmulatorAless&layout=compact&theme=transparent&hide_border=true&title_color=2f855a&text_color=8b949e" height="165" alt="Top languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=EmulatorAless&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Alex GitHub stats" width="420" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmulatorAless&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" width="320" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=EmulatorAless&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" width="560" />
 </div>
 
 ---
