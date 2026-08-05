@@ -6,7 +6,11 @@
 
 # 👋 Hi, I'm Alex · Hola, soy Alex
 
-### Full Stack · SaaS · Mobile · Web
+<img src="./assets/tech-intro.gif" alt="Alex — Full Stack SaaS tech intro" width="840" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=5EC8B8&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Full+Stack+%C2%B7+SaaS+%C2%B7+Mobile+%C2%B7+Web;Building+end-to-end+products+%7C+Construyendo+productos+completos" alt="Typing animation" />
 
 🇬🇧 I build end-to-end products: web, mobile, APIs, and SaaS-style apps.  
 🇪🇸 Construyo productos de punta a punta: web, móvil, APIs y apps tipo SaaS.
@@ -130,22 +134,6 @@
 | :--- | :--- |
 | 🇪🇸 Español | Native / Nativo |
 | 🇬🇧 English | Intermediate · Intermedio |
-
----
-
-## 📈 Activity · Actividad
-
-🇬🇧 Live data from my GitHub contributions (updates automatically).  
-🇪🇸 Datos en vivo de mis contribuciones en GitHub (se actualizan solos).
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EmulatorAless&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmulatorAless&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-</div>
-
-> 💡 🇬🇧 GitHub also shows the full contribution calendar on this profile (below).  
-> 🇪🇸 GitHub también muestra el calendario de contribuciones completo en este perfil (abajo).
 
 ---
 
