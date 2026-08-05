@@ -6,14 +6,12 @@
 
 # 👋 Hi, I'm Alex · Hola, soy Alex
 
-<img src="./assets/tech-intro.gif" alt="Alex — Full Stack SaaS tech intro" width="840" />
+<img src="./assets/tech-cyber-vivid.gif" alt="Alex — Neon tech intro" width="840" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=5EC8B8&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Full+Stack+%C2%B7+SaaS+%C2%B7+Mobile+%C2%B7+Web;Building+end-to-end+products+%7C+Construyendo+productos+completos" alt="Typing animation" />
-
-🇬🇧 I build end-to-end products: web, mobile, APIs, and SaaS-style apps.  
-🇪🇸 Construyo productos de punta a punta: web, móvil, APIs y apps tipo SaaS.
+🇬🇧 Building end-to-end SaaS products · Web, mobile & backend  
+🇪🇸 Construyendo productos SaaS de punta a punta · Web, móvil y backend
 
 </div>
 
@@ -27,9 +25,8 @@
 
 #### 🇬🇧 English
 
-- Full stack developer building complete products.
-- I work across frontend, backend, mobile, and SaaS-style applications.
-- From idea to product: interfaces, APIs, auth, data, and real features users need.
+- Full stack developer focused on SaaS products.
+- I work across frontend, backend, mobile, APIs, auth and data.
 - I care about clear code, solid architecture, and shipping useful software.
 
 </td>
@@ -37,23 +34,13 @@
 
 #### 🇪🇸 Español
 
-- Desarrollador full stack que construye productos completos.
-- Trabajo en frontend, backend, móvil y aplicaciones tipo SaaS.
-- De la idea al producto: interfaces, APIs, auth, datos y funciones reales para usuarios.
+- Desarrollador full stack enfocado en productos SaaS.
+- Trabajo en frontend, backend, móvil, APIs, auth y datos.
 - Me importa el código claro, la arquitectura sólida y entregar software útil.
 
 </td>
 </tr>
 </table>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  👤  Name / Nombre     ·  Alex                               │
-│  🎯  Focus / Enfoque   ·  SaaS · Full Stack · Mobile         │
-│  ✨  Style / Estilo    ·  End-to-end, clear, intentional     │
-│  🚀  Goal / Meta       ·  Build real products people use     │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -111,29 +98,29 @@
 
 ## 💼 What I do · Qué hago
 
-| 🇬🇧 English | 🇪🇸 Español |
-| :--- | :--- |
-| 🚀 Build SaaS-style products end to end | 🚀 Crear productos tipo SaaS de punta a punta |
-| 🖥️ Design web apps and user experiences | 🖥️ Diseñar apps web y experiencias de usuario |
-| 📱 Develop mobile apps with Expo | 📱 Desarrollar apps móviles con Expo |
+| 🇬🇧 English                                 | 🇪🇸 Español                                      |
+| :----------------------------------------- | :---------------------------------------------- |
+| 🚀 Build SaaS-style products end to end    | 🚀 Crear productos tipo SaaS de punta a punta   |
+| 🖥️ Design web apps and user experiences    | 🖥️ Diseñar apps web y experiencias de usuario   |
+| 📱 Develop mobile apps with Expo           | 📱 Desarrollar apps móviles con Expo            |
 | ⚙️ Build backends, APIs, auth & data flows | ⚙️ Crear backends, APIs, auth y flujos de datos |
 
 ---
 
 ## 💪 Soft skills · Habilidades blandas
 
-| 🇬🇧 English | 🇪🇸 Español |
-| :--- | :--- |
+| 🇬🇧 English                                                | 🇪🇸 Español                                                       |
+| :-------------------------------------------------------- | :--------------------------------------------------------------- |
 | Communication · Problem solving · Curiosity · Consistency | Comunicación · Resolución de problemas · Curiosidad · Constancia |
 
 ---
 
 ## 🌍 Languages · Idiomas
 
-| Language / Idioma | Level / Nivel |
-| :--- | :--- |
-| 🇪🇸 Español | Native / Nativo |
-| 🇬🇧 English | Intermediate · Intermedio |
+| Language / Idioma | Level / Nivel             |
+| :---------------- | :------------------------ |
+| 🇪🇸 Español        | Native / Nativo           |
+| 🇬🇧 English        | Intermediate · Intermedio |
 
 ---
 
