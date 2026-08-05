@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/tech-cyber-vivid.gif" alt="Alex — Neon tech intro" width="840" />
+<img src="./assets/tech-cyber-calm.gif" alt="Alex — Full Stack SaaS" width="840" />
 
 <br />
 

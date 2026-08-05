@@ -1,24 +1,11 @@
 {
-  "name": "emulatoraless",
-  "version": "1.0.0",
-  "description": "<!--\r   GitHub Profile README — Alex (EmulatorAless)\r -->",
-  "main": "index.js",
+  "name": "emulatoraless-profile",
+  "private": true,
+  "description": "GitHub profile README assets",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate:gif": "node scripts/generate-gif.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EmulatorAless/EmulatorAless.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/EmulatorAless/EmulatorAless/issues"
-  },
-  "homepage": "https://github.com/EmulatorAless/EmulatorAless#readme",
-  "dependencies": {
+  "devDependencies": {
     "gifenc": "^1.0.3"
   }
 }
