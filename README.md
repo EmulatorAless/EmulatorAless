@@ -11,6 +11,24 @@
 🇬🇧 Building end-to-end SaaS products · Web, mobile & backend  
 🇪🇸 Construyendo productos SaaS de punta a punta · Web, móvil y backend
 
+<br />
+
+<a href="https://alex-espana.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=3D9B94" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/EmulatorAless" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alexander-emu/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/908100116068573246" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-emulator.aless-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord — emulator.aless" />
+</a>
+
 </div>
 
 ---
@@ -96,18 +114,18 @@
 
 ## 💼 What I do · Qué hago
 
-| 🇬🇧 English                                 | 🇪🇸 Español                                      |
+| 🇬🇧 English | 🇪🇸 Español |
 | :----------------------------------------- | :---------------------------------------------- |
-| 🚀 Build SaaS-style products end to end    | 🚀 Crear productos tipo SaaS de punta a punta   |
-| 🖥️ Design web apps and user experiences    | 🖥️ Diseñar apps web y experiencias de usuario   |
-| 📱 Develop mobile apps with Expo           | 📱 Desarrollar apps móviles con Expo            |
+| 🚀 Build SaaS-style products end to end | 🚀 Crear productos tipo SaaS de punta a punta |
+| 🖥️ Design web apps and user experiences | 🖥️ Diseñar apps web y experiencias de usuario |
+| 📱 Develop mobile apps with Expo | 📱 Desarrollar apps móviles con Expo |
 | ⚙️ Build backends, APIs, auth & data flows | ⚙️ Crear backends, APIs, auth y flujos de datos |
 
 ---
 
 ## 💪 Soft skills · Habilidades blandas
 
-| 🇬🇧 English                                                | 🇪🇸 Español                                                       |
+| 🇬🇧 English | 🇪🇸 Español |
 | :-------------------------------------------------------- | :--------------------------------------------------------------- |
 | Communication · Problem solving · Curiosity · Consistency | Comunicación · Resolución de problemas · Curiosidad · Constancia |
 
@@ -115,10 +133,10 @@
 
 ## 🌍 Languages · Idiomas
 
-| Language / Idioma | Level / Nivel             |
+| Language / Idioma | Level / Nivel |
 | :---------------- | :------------------------ |
-| 🇪🇸 Español        | Native / Nativo           |
-| 🇬🇧 English        | Intermediate · Intermedio |
+| 🇪🇸 Español | Native / Nativo |
+| 🇬🇧 English | Intermediate · Intermedio |
 
 ---
 
@@ -128,27 +146,9 @@
 
 <div align="center">
 
-<a href="https://alex-espana.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=3D9B94" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/EmulatorAless" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alexander-emu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/908100116068573246" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-
-<br /><br />
-
 | 🌐 Portfolio | 💼 LinkedIn | 💬 Discord | 🐙 GitHub |
 | :---: | :---: | :---: | :---: |
-| [alex-espana.vercel.app](https://alex-espana.vercel.app/) | [alexander-emu](https://www.linkedin.com/in/alexander-emu/) | [Message me](https://discord.com/users/908100116068573246) | [EmulatorAless](https://github.com/EmulatorAless) |
+| [alex-espana.vercel.app](https://alex-espana.vercel.app/) | [alexander-emu](https://www.linkedin.com/in/alexander-emu/) | **emulator.aless** · [Open profile](https://discord.com/users/908100116068573246) | [EmulatorAless](https://github.com/EmulatorAless) |
 
 <br />
 
