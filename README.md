@@ -24,6 +24,14 @@
 <a href="https://discord.com/users/908100116068573246" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+&nbsp;
+<a href="mailto:alex.espa.emu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://wa.me/593997432545" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 
 </div>
 
@@ -152,6 +160,14 @@
 &nbsp;
 <a href="https://discord.com/users/908100116068573246" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+&nbsp;
+<a href="mailto:alex.espa.emu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://wa.me/593997432545" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br /><br />
